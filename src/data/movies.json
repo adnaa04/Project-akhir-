@@ -1,0 +1,16 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Inception",
+        "genre": "Action",
+        "description": "A mind-bending sci-fi thriller about dream infiltration"
+      },
+      {
+        "id": 2, 
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "description": "A powerful story of hope and friendship in prison"
+      }
+    ]
+  }
